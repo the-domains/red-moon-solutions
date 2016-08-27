@@ -4,8 +4,15 @@
         <description><![CDATA[Create, Cosplay, Conquer]]></description>
         <link>https://thegrid.ai/red-moon-solutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 04:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 04:55:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/red-moon-solutions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Thibra Thermoplastic</p>]]></description>
+            <link>https://thegrid.ai/red-moon-solutions/9eb7655f-fb3f-4936-9499-a6a38d95ea9e/index.html</link>
+            <guid isPermaLink="false">9eb7655f-fb3f-4936-9499-a6a38d95ea9e</guid>
+            <pubDate>Sat, 27 Aug 2016 04:55:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cacbd1f6-b58a-4a9d-80ee-316261d3b1e5.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/red-moon-solutions/39dff0b7-498f-4f29-92c5-967feed50dbf/index.html</link>
             <guid isPermaLink="false">39dff0b7-498f-4f29-92c5-967feed50dbf</guid>
             <pubDate>Sat, 27 Aug 2016 04:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1541cec1-9b59-489c-8fba-57617ceae866.jpg">]]></description>
-            <link>https://thegrid.ai/red-moon-solutions/83a97aa6-7cb2-4551-9b9a-d5577c8c1226/index.html</link>
-            <guid isPermaLink="false">83a97aa6-7cb2-4551-9b9a-d5577c8c1226</guid>
-            <pubDate>Sat, 27 Aug 2016 04:53:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
