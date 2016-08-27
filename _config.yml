@@ -1,4 +1,6 @@
 typography_spectrum: 0.3058112426660955
+content_rating:
+  adult: false
 color:
   brandStrength: 0.776126780314371
   lightness: 0.582668190356344
@@ -11,6 +13,8 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.6434958635363728
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f9b744-7c40-414b-864c-7a42f2da3ef5.jpg
 name: Red Moon Solutions
 navigation:
   - name: About us
