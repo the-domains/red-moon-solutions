@@ -1,17 +1,14 @@
-typography_spectrum: 0.5952581993769854
+layout_spectrum: 0.6434958635363728
+typography_spectrum: 0.3058112426660955
 color:
-  brandStrength: 0.2963031171821058
-  lightness: 0.365609189029783
-  saturation: 0.8600901677273214
-  rhythmicContrast: 0.2871698366943747
+  brandStrength: 0.776126780314371
+  lightness: 0.582668190356344
+  saturation: 0.5167156669776887
+  rhythmicContrast: 0.4122892946470529
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.08157151937484741
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19334364-cdde-4537-9716-fad7005ea71e.jpg
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Red Moon Solutions
-title: 'Create, Cosplay, Conquer'
