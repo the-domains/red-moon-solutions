@@ -1,20 +1,14 @@
-typography_spectrum: 0.3058112426660955
-content_rating:
-  adult: false
+layout_spectrum: 0.08157151937484741
+typography_spectrum: 0.5952581993769854
 color:
-  brandStrength: 0.776126780314371
-  lightness: 0.582668190356344
-  saturation: 0.5167156669776887
-  rhythmicContrast: 0.4122892946470529
+  brandStrength: 0.2963031171821058
+  lightness: 0.365609189029783
+  saturation: 0.8600901677273214
+  rhythmicContrast: 0.2871698366943747
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.6434958635363728
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f9b744-7c40-414b-864c-7a42f2da3ef5.jpg
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Red Moon Solutions
-title: Prepare to be boarded!
-description: 'Create, Cosplay, Conquer'
