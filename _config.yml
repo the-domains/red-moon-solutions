@@ -6,9 +6,9 @@ color:
   saturation: 0.8600901677273214
   rhythmicContrast: 0.2871698366943747
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#835C57'
+    - '#BAAAAB'
+    - '#403031'
+    - '#E8D7CF'
 name: Red Moon Solutions
