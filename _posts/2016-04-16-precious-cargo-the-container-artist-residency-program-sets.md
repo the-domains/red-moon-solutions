@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T04:20:57.501Z'
+datePublished: '2016-08-27T04:36:26.781Z'
 sourcePath: >-
   _posts/2016-04-16-precious-cargo-the-container-artist-residency-program-sets.md
 inFeed: true
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-27T04:20:57.044Z'
+dateModified: '2016-08-27T04:36:26.398Z'
 title: 'Precious cargo: the Container Artist Residency program sets sail.'
 app_links: []
 publisher:
