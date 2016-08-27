@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.6434958635363728
 name: Red Moon Solutions
+navigation:
+  - name: About us
+    id: b323e241-0b22-4331-9f8b-7752c684ba74
+    type: content
 title: Thermoplastics
 description: 'Create, Cosplay, Conquer'
