@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-27T04:12:05.789Z'
+datePublished: '2016-08-27T04:20:57.501Z'
 sourcePath: >-
   _posts/2016-04-16-precious-cargo-the-container-artist-residency-program-sets.md
 inFeed: true
-isBasedOnUrl: 'http://www.wallpaper.com/art/the-container-artist-residency-program-sets-sail'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - artist
   - residency
@@ -21,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-27T04:12:05.409Z'
+dateModified: '2016-08-27T04:20:57.044Z'
 title: 'Precious cargo: the Container Artist Residency program sets sail.'
 app_links: []
 publisher:
@@ -38,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: precious-cargo-the-container-artist-residency-program-sets/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
