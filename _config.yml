@@ -1,4 +1,3 @@
-layout_spectrum: 0.6434958635363728
 typography_spectrum: 0.3058112426660955
 color:
   brandStrength: 0.776126780314371
@@ -6,9 +5,11 @@ color:
   saturation: 0.5167156669776887
   rhythmicContrast: 0.4122892946470529
   brandColors:
-    - '#000000'
-    - '#D7CCB6'
-    - '#D50110'
-    - '#9C8462'
-    - '#423E35'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.6434958635363728
 name: Red Moon Solutions
+title: Thermoplastics
